@@ -3,11 +3,9 @@
 - **Описание задания**
     
     Реализовать “кнопки-табы”.
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e6309da3-7072-4ff6-8e68-ddb4f6bb1dd4/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8333459e-9d47-4603-bd3e-d51a7c548df7/Untitled.png)
-    
+    <img width="1215" alt="Снимок экрана 2022-04-10 в 03 21 00" src="https://user-images.githubusercontent.com/87502665/162597092-dbb3aa8a-362e-44cc-81c8-cf83c43f8765.png">
+<img width="1216" alt="Снимок экрана 2022-04-10 в 03 21 26" src="https://user-images.githubusercontent.com/87502665/162597101-26213c7f-1b32-419d-b065-1187750ed699.png">
+
 - **Критерии оценки для cross-check**
     
     Максимальный балл: 100
